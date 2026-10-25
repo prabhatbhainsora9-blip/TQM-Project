@@ -13,7 +13,7 @@
 
 - **Student Name:** Prabhat Singh Bhainsora  
 - **Registration / Roll Number:** 2410302046  
-- **Branch & Section:** Computer Science & Engineering (CSE) — Section B  
+- **Branch & Section:** Computer Science & Engineering (CSE AI&ML) — Section B  
 - **Course Code:** BBAT104  
 - **Course Name:** Fundamentals of Total Quality Management (TQM)  
 - **Academic Session:** 2026–27  
