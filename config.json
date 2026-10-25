@@ -1,0 +1,43 @@
+{
+  "app_name": "Employee Management System (TQM Maintainability Edition)",
+  "app_version": "1.0.0",
+  "academic_info": {
+    "student_name": "Prabhat Singh Bhainsora",
+    "roll_number": "2410302046",
+    "course_code": "BBAT104",
+    "course_name": "Fundamentals of Total Quality Management (TQM)",
+    "academic_session": "2026-27",
+    "branch": "CSE",
+    "section": "B",
+    "quality_goal": "Q11 - Improve Maintainability"
+  },
+  "database": {
+    "db_path": "data/employee_tqm.db",
+    "connection_timeout": 10.0,
+    "enable_wal_mode": true
+  },
+  "logging": {
+    "log_dir": "logs",
+    "log_file": "logs/application.log",
+    "log_level": "INFO",
+    "max_bytes": 1048576,
+    "backup_count": 5
+  },
+  "backup": {
+    "backup_dir": "backups",
+    "auto_backup_on_startup": false,
+    "max_backups": 10
+  },
+  "reports": {
+    "output_dir": "reports",
+    "default_format": "PDF"
+  },
+  "ui": {
+    "theme": "Dark",
+    "accent_color": "blue",
+    "scaling": 1.0,
+    "records_per_page": 10,
+    "confirm_delete": true,
+    "enable_toast_notifications": true
+  }
+}

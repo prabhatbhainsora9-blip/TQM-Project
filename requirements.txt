@@ -1,0 +1,32 @@
+# ==============================================================================
+# Employee Management System with Maintainability Enhancement and TQM Analysis
+# Course: BBAT104 - Fundamentals of Total Quality Management
+# Student: Prabhat Singh Bhainsora (Roll: 2410302046)
+# ==============================================================================
+
+# Core GUI framework (Modern Tkinter wrapper)
+customtkinter>=5.2.0
+
+# Data manipulation and statistical analysis
+pandas>=2.0.0
+
+# Statistical charts, Pareto, Fishbone, and SQC visualizations
+matplotlib>=3.7.0
+
+# Optional statistical styling enhancements
+seaborn>=0.12.0
+
+# Professional PDF report generation
+reportlab>=4.0.0
+
+# Excel report export (.xlsx support)
+openpyxl>=3.1.0
+
+# Automated testing suite
+pytest>=7.3.0
+
+# Cross-platform dark mode detection
+darkdetect>=0.8.0
+
+# Image handling for GUI components and visual assets
+Pillow>=9.5.0
