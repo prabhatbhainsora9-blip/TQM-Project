@@ -51,6 +51,7 @@ data/*.db
 data/*.sqlite3
 data/*.db-journal
 data/*.db-wal
+data/*.db-shm
 !data/.gitkeep
 
 # Activity logs (preserve .gitkeep)
